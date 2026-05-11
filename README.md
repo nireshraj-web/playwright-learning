@@ -1,5 +1,5 @@
 # playwright-learning
-var MyName;
+let MyName;
 MyName = "Nixx";
 
 console.log("My Name is "+MyName;)
